@@ -60,7 +60,8 @@ A step-by-step series of examples that tell you how to get a development environ
 - **Product Listings**: Displays a list of products with essential details and filtering feature
 - **Footer**: A footer section with Slash's LinkedIn.
 
-![Project Screenshot](images/screenshot.png "Project Screenshot")
+![Project Screenshot](screenshots/SlashTask1.png "Project Screenshot")
+![Project Screenshot](screenshots/SlashTask2.png "Project Screenshot")
 
 
 ##Authors
