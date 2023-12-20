@@ -66,7 +66,7 @@ A step-by-step series of examples that tell you how to get a development environ
 ![Project Screenshot](screenshots/SlashTask2.png "Project Screenshot")
 
 
-##Author
+# Author
 
-Karim Abouzeid - KarimAbouzeid
+**Karim Abouzeid - KarimAbouzeid**
 
