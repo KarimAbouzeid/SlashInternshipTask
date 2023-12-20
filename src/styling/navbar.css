@@ -1,0 +1,23 @@
+.navbarStyle {
+  background-color: #eaeaea;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  font-family: Helvetica, Sans-Serif;
+}
+
+.tab {
+  padding: 10px 20px;
+}
+.tab:hover {
+  padding-bottom: 3px;
+  border-bottom-style: solid;
+  cursor: pointer;
+}
+
+.linktab {
+  color: inherit;
+  text-decoration: none;
+}

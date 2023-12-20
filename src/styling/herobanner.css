@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Oswald&display=swap");
+
+.containerHomeBanner {
+  height: 700px;
+  margin-top: 10px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://img.freepik.com/free-photo/shirt-mockup-concept-with-plain-clothing_23-2149448749.jpg?w=1800&t=st=1703097603~exp=1703098203~hmac=01c3905ef0d87462698cf1961b5d46638c45d54c1c11f87e5abf6c418278ec1a");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.heading1,
+.heading2 {
+  text-align: left;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  /* font-family: "Inter", sans-serif; */
+  font-family: "Oswald", sans-serif;
+  margin-left: 15px;
+}
+
+.heading1 {
+  margin-bottom: 5px;
+}
+
+.heading2 {
+  margin-top: 5px;
+}
+
+.subheading-line1,
+.subheading-line2 {
+  text-align: left;
+  margin-left: 15px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+
+  line-height: 1.6;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #aaaaaa;
+}
+
+.subheading-line1 {
+  margin-bottom: 10px;
+}
+.subheading-line2 {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.btn {
+  padding: 4px;
+  width: 175px;
+  height: 60px;
+  background-color: #eaeaea;
+  color: #333333;
+  border-radius: 5%;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  box-shadow: none;
+  border: 0.5px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.link {
+  color: inherit;
+  text-decoration: none;
+}

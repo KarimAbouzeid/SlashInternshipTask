@@ -1,0 +1,29 @@
+.container-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin: 40px;
+}
+
+.container-products {
+  height: 1000px;
+  width: 75%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.container-sidebar {
+  width: 18%;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.vl {
+  border-left: 1px solid black;
+  height: auto;
+  margin-left: 20px;
+  margin-right: 40px;
+  margin-top: 40px;
+  border-color: lightgray;
+}
